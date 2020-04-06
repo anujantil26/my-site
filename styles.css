@@ -1,0 +1,228 @@
+body
+{
+    margin: 0px;
+    
+    text-align:center;
+
+    background: url("background-images/favourite1.jpg") no-repeat center fixed; 
+    background-size: cover;
+
+    font-family: 'Merriweather', serif;
+     
+    
+
+    
+}
+
+h1
+{
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color : chartreuse;
+
+    
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    color : cyan;
+    font-size:35px;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: chartreuse;
+    
+}
+
+span
+{
+    text-decoration : underline;
+    font-weight: normal;
+    color:white;
+}
+
+.para-1
+{
+    color:white;
+    font-size: 20px;
+}
+
+
+.top-container
+{
+    height:500px;
+    background-color:  transparent;
+}
+
+.top-cloud
+{
+    width:100px;
+    height:100px;
+
+    position:relative;
+    left:150px;
+}
+.bottom-cloud
+{
+    position : relative;
+    right:150px;
+    height:100px;
+    width:100px;
+    
+}
+
+.hr
+{
+    border-width:0;
+    border-top:solid;
+    border-style:dotted;
+    margin-left:35%;
+    margin-right:35%;
+    position:relative;
+    
+}
+
+
+.middle-container
+{
+    height:1500px;
+    background-color: transparent;
+}
+.profile
+{
+    width:50%;
+    margin: 100px auto 100px auto;
+
+    margin-left:400px;
+    
+}
+.hello
+{
+    width:50%;
+
+    font-size:x;
+    margin-left:10px;
+}
+.para-2
+{
+    width:30%;
+    margin:auto;
+
+    color: white;
+}
+
+.skills
+{
+    width:50%;
+
+    margin : 20px auto 100px auto;
+
+    text-align:left;
+}
+
+.skill-row1
+{
+    margin-bottom : 50px;
+
+    color:white;
+}
+
+.skill-row2
+{
+    margin-bottom: 100px;
+
+    color: white;
+}
+
+.h2
+{ 
+    text-align:left;
+    margin-bottom:80px;
+}
+.para
+{
+    line-height: 2;
+}
+
+
+
+.my_image
+{
+   width:200px;
+   height:200px; 
+
+   float:left;
+}
+.c1
+{
+    width:100px;
+    height:100px;
+    float: right;
+    margin-right:30px;
+}
+.c
+{
+    width:100px;
+    height:100px;
+    float:right;
+
+}
+
+.coding
+{
+    width:100px;
+    height:100px;
+    float:right;
+}
+
+.html
+{
+    width:100px;
+    height:100px;
+    float:right;
+    margin-right:10px;
+}
+.css
+{
+    width:100px;
+    height:100px;
+    float:right;
+    margin-left:30px;
+    margin-right:10px;
+}
+.touch
+{
+    text-align:center;
+    text-decoration: underline;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size:50px;
+
+    color: lightpink;
+}
+.para-3
+{
+    text-align:center;
+    color:white;
+}
+.para-4
+{
+    text-align:center;
+    color: white;
+}
+
+.link
+{
+    margin-left:300px;
+}
+
+
+a
+{
+    color: cyan;
+
+    font-family: 'Merriweather', serif; ;
+}
